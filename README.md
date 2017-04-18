@@ -9,3 +9,5 @@ tips：<br>
 imageview,drawable设置状态，可以用来保持点击状态：<br>
 设置状态:setImageState(Android.R.attr.state_focused, true);<br>
 取消状态：setImageState(new int[ ] { }, true);
+二<br>
+倒计时 TImeCount，之前一直都是用属性动画。。。。
